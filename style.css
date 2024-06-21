@@ -627,7 +627,7 @@ section{
         color: var(--main-color);
     }
     .gradient-btn{
-       
+        display : none;
     }
     html{
         font-size: 55%;
